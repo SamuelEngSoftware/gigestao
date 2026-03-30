@@ -1,2 +1,2 @@
-# gigestao  - Sistema de gerenciamento para loja de fardamentos/roupas
+# Gigestao  - Sistema de gerenciamento para loja de fardamentos/roupas
    
